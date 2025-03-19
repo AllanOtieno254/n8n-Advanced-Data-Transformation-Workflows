@@ -1,0 +1,16 @@
+
+
+## Data Transformation Nodes
+n8n provides a collection of nodes to transform data efficiently. These nodes help in structuring and modifying data before passing it to the next step in a workflow.
+
+### **Available Data Transformation Nodes**
+
+- **Aggregate**: Combines separate items or parts of them and groups them into individual items.
+- **Limit**: Restricts the number of items by removing those beyond a defined maximum count.
+- **Remove Duplicates**: Identifies and removes duplicate items based on all fields or a subset of fields.
+- **Sort**: Arranges lists in a specified order or generates a random selection.
+- **Split Out**: Divides a single data item containing a list into multiple individual items.
+- **Summarize**: Aggregates data similarly to Excel pivot tables, allowing for grouped data representation.
+
+These transformation nodes allow for better data management and optimization within n8n workflows.
+
