@@ -1,12 +1,10 @@
 # n8n Data Transformation and Built-in Methods
 
-![main workflow](https://github.com/user-attachments/assets/798d7790-5a54-41cf-a80b-67704cfa2aa1)
-
 ## Project Overview
 This project demonstrates **data transformation** techniques in **n8n**, an automation workflow tool. The workflow utilizes various nodes such as **Split Out, Aggregate, and Code nodes** to manipulate data efficiently. Additionally, this project provides an overview of built-in methods and variables available in n8n for handling data processing tasks.
 
 ## Workflow Diagram
-![Workflow Image](./workflow.png)
+![main workflow](https://github.com/user-attachments/assets/798d7790-5a54-41cf-a80b-67704cfa2aa1)
 
 The workflow consists of the following nodes:
 - **Trigger Node**: Starts execution when the workflow is tested.
