@@ -1,0 +1,14 @@
+n8n-data-transformation/
+│── README.md                    # Overview of the project
+│── LICENSE                       # Open-source license
+│── workflows/
+│   │── data-transformation.json  # Exported n8n workflow file
+│   │── built-in-methods.json     # Workflow using built-in methods
+│   │── aggregation-split.json    # Workflow for splitting & aggregating data
+│── docs/
+│   │── data-transformation.md    # Documentation for transformation nodes
+│   │── built-in-methods.md       # Reference for built-in methods & variables
+│   │── workflow-guide.md         # Step-by-step guide to using the workflow
+│── images/
+│   │── workflow-screenshot.png   # Your provided workflow screenshot
+│── .gitignore                    # Ignore unnecessary files
